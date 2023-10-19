@@ -12,7 +12,7 @@ const Footer = () => (
           alt="hoobank logo"
           className="w-[266px] h-[72.14px] object-contain"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
+        <p className={`${styles.paragraph} mt-4 max-w-[350px]`}>
           Une nouvelle façon de rendre les paiements faciles, fiables et sécurisés.
         </p>
       </div>
